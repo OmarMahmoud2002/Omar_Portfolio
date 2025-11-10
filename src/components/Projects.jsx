@@ -18,7 +18,7 @@ const Projects = () => {
       title: "Laravel Job Board Platform",
       description:
         "A comprehensive job board system with multi-role access (Admin, Employer, Candidate) featuring job listings, applications management, and role-based dashboards.",
-      image: "src/assets/job.png",
+      image: "/job.png",
       technologies: ["Laravel", "PHP", "MySQL", "Blade"],
       github: "https://github.com/OmarMahmoud2002/Laravel-Job-Board",
       // live: "#",
@@ -27,7 +27,7 @@ const Projects = () => {
       title: "Exam System",
       description:
         "A full-stack web application enabling students to take exams and view results, while admins manage exams, questions, and results with role-based access control.",
-      image: "src/assets/exam.png",
+      image: "/exam.png",
       technologies: ["Angular", "Node.js", "MongoDB", "Express"],
       github: "https://github.com/OmarMahmoud2002/Exam_System_Project",
       // live: "#",
